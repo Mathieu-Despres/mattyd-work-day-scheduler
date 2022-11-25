@@ -12,7 +12,7 @@
 <br />
 <div align="center">
   <a href="https://mathieu-despres.github.io/mattyd-work-day-scheduler">
-    <img src="./assets/images/quizzer_logo.png" alt="Logo" width="128" height="128">
+    <img src="./Assets/mattyd-work-day-scheduler-icon.png" alt="Logo" width="128" height="128">
   </a>
 
 <br>
