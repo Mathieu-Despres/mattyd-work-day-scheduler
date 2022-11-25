@@ -1,3 +1,10 @@
+.w3-display-container {
+
+height: 250px;
+border-bottom: 5px solid black;
+
+}
+
 body {
   font-family: 'Open Sans', sans-serif;
   font-size: 16px;
