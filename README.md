@@ -98,7 +98,7 @@ N/A
 
 ## Usage
 
-This is only a repository for students studying the Coding Boot Camp provided by UNB.
+This is a calendar that can save your notes on specific (work) hours of the day. This will save your work even though you close your browser mn studying the Coding Boot Camp provided by UNB.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -148,8 +148,10 @@ Distributed under the MIT License. See "LICENSE.txt" for more information.
 ## Acknowledgments
 
 [&#10004;]&nbsp;The [Best-README-Template](https://github.com/othneildrew/Best-README-Template) used as a starter template for this [README file](https://github.com/Mathieu-Despres/courses-challenge-module-1/blob/main/README.md)<br>
-[&#10004;]&nbsp;The [repository](https://github.com/coding-boot-camp/crispy-octo-meme) used as the starter code for this challenge<br>
-[&#10004;]&nbsp;The [W3Schools](https://www.w3schools.com/) for their freemium educational website for application-related implementation options and examples, along with helpful references<br>
+[&#10004;]&nbsp;Repositories ([#1](https://github.com/coding-boot-camp/crispy-octo-meme) & [#2](https://github.com/sylviaprabudy/work-day-scheduler)) used as the starter code for this challenge!<br>
+[&#10004;]&nbsp;The [W3Schools](https://www.w3schools.com/) for their educational website for implementation options, examples, and helpful references<br>
+[&#10004;]&nbsp;The open-source web development framework [Bootstrap] (https://getbootstrap.com/) for faciliating web development<br>
+[&#10004;]&nbsp;JavaScript libraries, such as [MomentJS] (https://momentjs.com/) and [jQuery] (https://jquery.com/), that eases the development of JavaScript-based applications<br>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
